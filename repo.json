@@ -3,8 +3,8 @@
     "Author": "Marethyu",
     "Name": "Where's my mouse",
     "InternalName": "WheresMouse",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.3",
+    "TestingAssemblyVersion": "1.0.0.3",
     "Description": "Add UI element on top of the mouse like circle to keep track of your mouse location during gameplay.\nOpen settings with /wmm",
     "Punchline": "Allows you to not lose track of your mouse on the screen",
     "ApplicableVersion": "any",
@@ -14,9 +14,9 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/WheresMouse/releases/download/1.0.0.0/WheresMouse.zip",
-    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/WheresMouse/releases/download/1.0.0.0/WheresMouse.zip",
-    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/WheresMouse/releases/download/1.0.0.0/WheresMouse.zip",
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/WheresMouse/releases/download/1.0.0.3/WheresMouse.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/WheresMouse/releases/download/1.0.0.3/WheresMouse.zip",
+    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/WheresMouse/releases/download/1.0.0.3/WheresMouse.zip",
     "AcceptsFeedback": true
   }
 ]
